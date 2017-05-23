@@ -32,4 +32,4 @@ else
   df -h
   echo
 fi
-#find ~/ | grep backup-$todays_date.tar.gz
+

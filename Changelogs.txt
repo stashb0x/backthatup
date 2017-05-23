@@ -1,0 +1,3 @@
+Removed commented line out on last line of script.
+
+#find ~/ | grep backup-$todays_date.tar.gz
