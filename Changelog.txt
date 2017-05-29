@@ -1,0 +1,3 @@
+Added md5 checksum for backups
+Added GPL licence
+Added what the script should do as it runs
