@@ -1,3 +1,8 @@
+Removed commented line out on last line of script.
+
+#find ~/ | grep backup-$todays_date.tar.gz
+
+
 Added md5 checksum for backups
 Added GPL licence
 Added what the script should do as it runs
