@@ -1,3 +1,12 @@
+08/02/2017 - Changelog
+
+Changed bottom md5 line so that it moves md5checksum to user home directory
+along with the .tar.gz and snar file this way the script can run from inside of git
+directory
+
+++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++
+INITIAL COMMIT***
+
 Removed commented line out on last line of script.
 
 #find ~/ | grep backup-$todays_date.tar.gz
